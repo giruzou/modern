@@ -9,4 +9,6 @@ html {
   box-sizing: inherit;
 }
 
-body { background-color: #FAFAFA; color: rgb(0, 0, 0); max-width: 100%;}
+body {
+  overflow: hidden;
+}
